@@ -1,0 +1,22 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmharfabros/api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmharfabros/api/issues"
+  },
+  "homepage": "https://github.com/edmharfabros/api#readme",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
